@@ -1,5 +1,5 @@
-import { useState, useEffect } from "react";
-
-function App() {}
+function App() {
+  return null;
+}
 
 export default App;
